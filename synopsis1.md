@@ -42,7 +42,7 @@ duco, ducere, duxi, ductus
  
 capio, capere, cepi, captus
 
-2nd singular active: capis, cpiebas, cepisti 
+2nd singular active: capis, capiebas, cepisti 
 
 2nd singular passive: caperis, capiebaris, capta es
  
