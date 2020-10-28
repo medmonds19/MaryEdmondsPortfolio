@@ -37,7 +37,7 @@ Ceterae is describing sorores, meaning the other sisters
 Ab fulmine is a prepositional phrase meaning, by lighting 
 
 Erechtheus, the son of Pandionis, had four daughters. 
-At that time, Eumolpus, son of Neptune, went to Athens to attack, but this is the way of life. 
+At that time, Eumolpus, son of Neptune, came to attack Athens, but this is the way of life. 
 Neptune, angry because the son was killed by Erecchtheo, said “the daughter was sacrificed by erecthei."
 And so, Chthonia, the daughters together, were immortalized.
 The other sisters killed themselves, Erechtheus himself was hit by lightning.
