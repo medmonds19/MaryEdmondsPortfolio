@@ -1,6 +1,6 @@
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
 illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās oppugnandās, sed hic victus est.
-*Neptūnus*, infestus quod fīlius ab Erechtheō interfectus est, **dīxit** “Erecthei fīlia immolanda est.” 
+*Neptūnus*, infestus quod *fīliu*s ab Erechtheō **interfectus est**, **dīxit** “Erecthei fīlia immolanda est.” 
 itaque *Chthonia*, fīliārum ūna, **immolāta est**. 
 *ceterae sorōrēs* **sē interfēcērunt**; ipse *Erechtheus* ab fulmine **ictus est**.
 
@@ -39,6 +39,6 @@ Ab fulmine is a prepositional phrase meaning, by lighting
 Erechtheus, the son of Pandionis, had four daughters. 
 At that time, Eumolpus, son of Neptune, went to Athens to attack, but this is the way of life. 
 Neptune, angry because the son was killed by Erecchtheo, said “the daughter was sacrificed by erecthei."
-Therefore Chthonia, the daughters together, were immortalized.
+And so, Chthonia, the daughters together, were immortalized.
 The other sisters killed themselves, Erechtheus himself was hit by lightning.
 
