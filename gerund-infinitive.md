@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 1. Hercules Antaeum occidit. hic cogebat hospites secum luctari
 a. What is the verb of the second sentence?
  cogebat
@@ -22,7 +24,7 @@ b. What is the verb of this sentence?
 c. What is the subject of this sentence?
   occasio
 d. Identify the case and number of ei.
-  dative singular 
+  dative singular
 e. What case is regni?
   genitive
 f. What noun does regni describe?
