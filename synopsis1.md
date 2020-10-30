@@ -64,8 +64,8 @@ audio audīre, audivi, auditus
 
 3rd plural active: audiunt, audiebant, audierunt
 
-3rd plural passive: audiuntur, audiebantaur, auditae sunt **Woops!  Check ending of imperfect!**
+3rd plural passive: audiuntur, audiebantur, auditae sunt
 
 3rd singular active: audit, audiebat, audivit
 
-3rd singular passive: auditur, audietur, audita est **Check imperfect stem**
+3rd singular passive: auditur, audiebatur, audita est 
