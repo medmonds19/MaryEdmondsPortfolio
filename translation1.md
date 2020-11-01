@@ -1,5 +1,3 @@
-**Needs corrections**
-
 
 
 Passage to analyze
