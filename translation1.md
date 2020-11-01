@@ -6,7 +6,7 @@ Passage to analyze
 
 *Chaos* prīmus deōrum **erat**.
 *Fīliae* eius, Nox et Terra, māter omnium hominum, **erant**.
-Haec *māter* Mortis et Lētī **erat**.
+*Haec* māter Mortis et Lētī **erat**.
 Illīus *fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs.
 *Typhon* et *Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī.
 Sed frāter eōrum *Ūranus*, prīmus ipse rēx deōrum.
@@ -39,4 +39,4 @@ C. Translation
 
 Please translate the passage into idiomatic English.
 
-Chaos was the first of the gods. His daughters were Nox, the mother of all man, and Terra, the goddess Earth. **(Since "māter omnium hominum" is right next to Terra, it certainly describes her, not Nox.)** This mother  was the god of death and destruction. **(Take "haec" as the subject and "mater" as the predicate and those genitives will make sense.)** His sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python were horrible dragons, and Cyclopes was a foolish mason. **("Cyclopes" is actually plural from Cyclops, Cyclopis, masculine.  That should help make the form "fabri bruti" make sense!)** But his brother, Uranus, was the first king of the gods. He was strong and large **(or "great")**, but wise.
+Chaos was the first of the gods. His daughters were Nox and Terra, the mother of all men. This was the mother of the god of death and destruction. His sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python were horrible dragons, and Cyclops was a foolish mason. But his brother, Uranus, was the first king of the gods. He was strong and great, but wise. 
