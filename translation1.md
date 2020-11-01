@@ -14,9 +14,6 @@ Sed frāter eōrum *Ūranus*, prīmus ipse rēx deōrum.
 
 A. Grammatical Analysis
 
-**In the sentence "Haec māter Mortis et Lētī erat" mater is nominative but is not the subject.  How does it function with the linking verb "erat"?**
-
-
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 
 B. Grammatical Questions
@@ -29,9 +26,9 @@ To whom does illius refer? illius refers to Chaos.
 
 What case, number, and gender is monstra? monstra is nominative, plural, neuter.
 
-What declension does the word dracōnēs belong to? dracones belongs to 2nd declension  **Does the second declension have any form ending in "-es"?**
+What declension does the word dracōnēs belong to? dracones belongs to 3rd declension .
 
-What case and number is eorum and to whom does it refer? eorum is genitive plural, referring to their brother **If it is plural, how can it refer to one brother?**
+What case and number is eorum and to whom does it refer? eorum is genitive plural, referring to deorum.
 
 What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum? the verb to be in the past tense, which would be ERAT.
 
