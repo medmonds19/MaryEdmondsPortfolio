@@ -4,7 +4,7 @@ Factum Vulcano indicandum erat.
 
 Vulcan catenam adamantis fecit ac catenam circum lectum veneris et martis posuit.
 
-Venus et Mars videruntne eum.
+Venus et Mars non viderunt eam.
 
 Ei potueruntne fugisse ex lecto.
 
