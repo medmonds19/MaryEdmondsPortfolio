@@ -12,4 +12,4 @@ Dei ad videndum eos vocaverunt.
 
 Mars sentiebat pudorem causa rei.
 
-Amare divinus est, sed errare divinus est et. 
+Amare divinum est, sed errare divinum est et.
