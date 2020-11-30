@@ -2,10 +2,10 @@
 
 
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
-illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās oppugnandās, sed hic victus est. **Please identify subject and verb of the second sentence coordinated with *hic*.**
+illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās oppugnandās, sed *hic* **victus est**. 
 *Neptūnus*, infestus quod *fīlius* ab Erechtheō **interfectus est**, **dīxit** “Erecthei fīlia immolanda est.”
 itaque *Chthonia*, fīliārum ūna, **immolāta est**.
-*ceterae sorōrēs* **sē interfēcērunt**; (**Is *se* part of a verb?**)
+*ceterae sorōrēs* sē **interfēcērunt**; (**Is *se* part of a verb?**)
  ipse *Erechtheus* ab fulmine **ictus est**.
 
 1. What case is the phrase illō tempōre and why is it in that case?
@@ -32,7 +32,7 @@ Perfect passive voice 3rd person indicative.  **What do these two words together
 
 Ceterae is nominative feminine plural adjective  meaning the others
 
-Sorores is nominative plural meaning feminine (**sisters**)
+Sorores is nominative plural meaning sisters (**sisters**)
 
 Ceterae is describing sorores, meaning the other sisters
 
