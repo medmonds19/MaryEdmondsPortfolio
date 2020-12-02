@@ -11,9 +11,9 @@ d. Is the temporal clause contemporary with or earlier than the main verb?
 
 a. past
 
-b. 
+b. subjunctive
 
-c. 
+c. imperfect
 
 d. contemporary
 
@@ -21,9 +21,9 @@ d. contemporary
 
 a. past
 
-b. 
+b. indicative
 
-c. 
+c. imperfect
 
 d. contemporary
 
@@ -31,9 +31,9 @@ d. contemporary
 
 a. past
 
-b. 
+b. subjunctive
 
-c. 
+c. imperfect
 
 d. contemporary
 
@@ -41,8 +41,8 @@ d. contemporary
 
 a. past
 
-b.
+b.subjunctive
 
-c.
+c. pluperfect
 
 d. earlier
