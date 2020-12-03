@@ -27,7 +27,7 @@ Perfect, passive, indicative, 3rd person, singular
 5. What kind of construction is immolanda est?
 
 this is a passive periphrastic, gerundive + to be
-immolanda is the passive gerundive of the verb to sacrifice, + the verb to be, meaning that the daughter had to be sacrificed by erecthei.  **What do these two words together express?**
+immolanda is the passive gerundive of the verb to sacrifice, + the verb to be, meaning that the daughter had to be sacrificed by erecthei.  
 
 6. Parse (GCN) ceterae sorōrēs.
 
@@ -43,7 +43,6 @@ Ab fulmine is a prepositional phrase meaning, by lighting
 
 Erechtheus, the son of Pandionis, had four daughters.
 At that time, Eumolpus, son of Neptune, came to attack Athens, but he was killed.
-Neptune, angry because the son was killed by Erechtheus, said “the daughter must be sacrificed by erecthei." (**Neptune is not making a factual statement here.**)
-And so, Chthonia, along with the daughters, was sacrificed. (**Review the vocabulary item *immolata*, and check what form *filiarum* is.**)
-
+Neptune, angry because the son was killed by Erechtheus, said “the daughter of Erecthei must be sacrificed." 
+And so, Chthonia, one of the daughters, was sacrificed. 
 The other sisters killed themselves, Erechtheus himself was hit by lightning.
