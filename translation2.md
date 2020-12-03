@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**.
 Simul *Vulcānus* ex lutō fēminam **faciēbat**.
