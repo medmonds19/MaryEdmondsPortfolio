@@ -29,7 +29,7 @@ What type of grammatical construction is ab Iove?
 What tense is erat and what are the principle parts of the verb it comes from?
 - comes from verb "to be", imperfect activem indicative, transitive, comes from esse, the four principal parts of sum are sum, esse, fui, futurus 
 
-Long ago, Prometheus was fashioning lapetus, the first son of man, out of mud. **But you said earlier that *Iapetī fīlius prīmus* was describing the subject of the sentence??**
+Long ago, Prometheus, the first son of lapetus, was fashioning men out of mud. 
 At the same time, Vulcanus was making a woman out of mud. Minerva gave a soul to this woman
 and sent gifts to her for all the gods.
 Because of this, her name was pandora. Pandora was given in marriage to Epimetheus by Jupiter. Their daughter Pyrrha was the first mortal.
