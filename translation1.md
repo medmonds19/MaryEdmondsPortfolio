@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory:  full credit**
 
 Passage to analyze
 
