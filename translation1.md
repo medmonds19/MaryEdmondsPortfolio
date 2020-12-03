@@ -34,5 +34,5 @@ C. Translation
 
 Please translate the passage into idiomatic English.
 
-Chaos was the first of the gods. His daughters were Nox and Terra, the mother of all men. She was the mother of the god of death and destruction. His sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python were horrible dragons, and Cyclops was a foolish mason. (**What number is *fabri bruti*?**)
+Chaos was the first of the gods. His daughters were Nox and Terra, the mother of all men. She was the mother of the god of death and destruction. His sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python were horrible dragons, and Cyclopes were foolish masons. 
 But his brother, Uranus, was the first king of the gods. He was strong and great, but wise.
