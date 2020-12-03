@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
@@ -18,8 +18,7 @@ Gerundive
 
 3. What idea does Athenas oppugnandās express?
 
-for the purpose of attacking Athens. **Gerundive does not express a fact: Athens is not the place "being attacked" when Eumolpus came there.**
-
+for the purpose of attacking Athens.
 4. Parse (PNTMV) interfectus est.
 
 Perfect, passive, indicative, 3rd person, singular
