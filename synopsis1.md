@@ -1,4 +1,4 @@
-**Needs corrections**
+
 
 amo, amāre, amavi, amatus
 
