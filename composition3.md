@@ -1,4 +1,4 @@
-**Needs revision**
+
 
 Venus cum Marte clam concumbebat.
 
@@ -8,10 +8,10 @@ Vulcanus catenam adamantis fecit ac catenam circum lectum veneris et martis posu
 
 Venus et Mars eam non viderunt. 
 
-Ei non potuerunt fugere ex lecto.
+Ei non poterant fugere ex lecto.
 
-Dei ad videndum eos vocaverunt. **What noun or pronoun does *videndum* agree with?**
+Dei ad videndos eos vocati sunt. 
 
-Mars sentiebat pudorem ob rei.
+Ob id Mars pudorem sentiebat.
 
-Amare divinum est, sed errare divinum est et.
+Amare divinum est, sed errare quoque divinum est.
