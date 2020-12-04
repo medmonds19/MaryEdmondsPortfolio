@@ -10,9 +10,9 @@ When the Greeks weren't able to capture Troy for 10 years,
 epeus made a wooden horse of amazing magnitude. 
 In it were gathered Menelaus, Ulixes, Domedes, Thessandwer, Sthenelus, Acamas, Thomas, Machaon, Neoptolemus.
 And on the horse they wrote "Minerva of Greece gives a gift," and carried it over to the military base in Tenedo. 
-When the Trojans saw it, the enemies were judged to go away; Priamus ordered the horse to be led by Minerva to the temple. 
-When the prophet, Cassandra, dedicated the enemies to have the horse, faith was not given to it and the horse was placed on behalf of the church.
-The Greeks went out of the gate when the guard fell down and Troy was conquered. 
+When the trojans saw it, they thought that the enemies went away; Priamus ordered that the Minerva lead the horse to the temple. 
+When the prophet, Cassandra, said that the enemies have the horse, trust was not given to her and they placed the horse in front of the church. 
+The Greeks went out of the horse and the guard fell down and Troy was conquered. 
 
 What case is decem annōs and why?
 - decem annos is is accusative because it is a preposational phrase.
