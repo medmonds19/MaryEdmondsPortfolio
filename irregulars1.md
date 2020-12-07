@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 tulit - third person singular perfect indicative active
 
 ferre - present active infinitive
