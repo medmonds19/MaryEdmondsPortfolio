@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 a. Does the main verb refer to present or past time?
 
 b. What is the mood of the verb in the temporal clause?
