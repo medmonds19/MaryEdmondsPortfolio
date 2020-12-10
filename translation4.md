@@ -16,7 +16,7 @@ epeus made a wooden horse of amazing magnitude.
 In it were gathered Menelaus, Ulixes, Domedes, Thessandwer, Sthenelus, Acamas, Thomas, Machaon, Neoptolemus.
 And on the horse they wrote "Minerva of Greece gives a gift," and carried it over to the military base in Tenedo. **Grammatically, what is the function of *castra*?**
 When the trojans saw it, they thought that the enemies went away; **What tense is the infinitive *abisse*?**
- Priamus ordered that the Minerva lead the horse to the temple. **Note *Minerva* is a singular (name of a) goddess.  Look at the construction of the indirect statement.**
+ Priamus was ordered by Minerva to lead the horse to the temple. Priamus ordered that the Minerva lead the horse to the temple. **Note *Minerva* is a singular (name of a) goddess.  Look at the construction of the indirect statement.**
 When the prophet, Cassandra, said that the enemies have the horse, **Possible!  But word order makes it easier to take *equum* as accusative subject of the indirect statement.**
  trust was not given to her and they placed the horse in front of the church.
 The Greeks went out of the horse
@@ -35,7 +35,7 @@ Explain the sentence structure of DANAI MINERVAE DONUM DANT?
 
 
 What type of verb is arbitrati sunt?
-- passive, perfect, 3rd person, plural, indicative.  **Yes, that is its form -- yet its meaning is active. (I.e., it is a *deponent* verb.)**
+- passive, perfect, 3rd person, plural, indicative, it is a deponent verb.  **Yes, that is its form -- yet its meaning is active. (I.e., it is a *deponent* verb.)**
 
 What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts. **There is a main clause, introducing indirect statement.**
  - priamus is nominative and the subject
