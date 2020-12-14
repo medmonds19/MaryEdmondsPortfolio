@@ -1,5 +1,5 @@
-**Needs revisions.**
-**Excellent first draft!**
+**Satisfactory: full credit.**
+
 
 1. Cum Hercules missus esset ad pugnandum cerebrum, canem tricipitem, Lycus putabat Herculem mortuum esse. 
 2. Lycus, filius neptuni, volebat regnum herculis capere et familiam herculis interficere.
