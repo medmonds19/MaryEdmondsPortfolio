@@ -2,28 +2,28 @@
 
 Cum *Achīvī* decem annōs Troiam capere **nōn possent**, *Epeus* equum mirae magnitūdinis ligneum **fēcit**.
 In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*.
-et in equō **scripsērunt** “*DANAI* MINERVAE DONUM **DANT**”, castraque transtulērunt Tenedo.
-Cum id *Troianī* **vidērunt**, **arbitratī sunt** *hostēs* abisse;
-*Priamus* imperāvit equum in templum Minervae **ducī**.
-Cum *vātēs*, Cassandra, **diceret** equum habere hostes, *fidēs* eī **data non est** et *equum* pro templō **posuērun**.
-*Achīvī* **exiērunt** portārumque custodēs occidērunt et *Troiam* **sunt potitī**.
+et in equō **scripsērunt** “*DANAI* MINERVAE DONUM **DANT**”, castraque **transtulērunt** Tenedo.
+Cum id *Troianī* **vidērunt**, **arbitratī sunt** *hostēs* **abisse**;
+*Priamus* **imperāvit** *equum* in templum Minervae **ducī**.
+Cum *vātēs*, Cassandra, **diceret** *equum* **habere** hostes, *fidēs* eī **data non est** et equum pro templō **posuērunt**.
+*Achīvī* **exiērunt** portārumque custodēs **occidērunt** et Troiam **sunt potitī**.
 
 When the Greeks weren't able to capture Troy for 10 years,
 epeus made a wooden horse of amazing magnitude.
 In it were gathered Menelaus, Ulixes, Domedes, Thessandwer, Sthenelus, Acamas, Thomas, Machaon, Neoptolemus.
 And on the horse they wrote "The Greeks give a gift to Minerva," and they carried the military camps over to Tenedo.
 When the trojans saw it, they judged that the enemies had gone away;
-Priamus ordered the horse to be led to the temple of Minerva.
-When the prophet, Cassandra, said that the enemies have the horse, **Possible!  But word order makes it easier to take *equum* as accusative subject of the indirect statement.**
+Priamus ordered that the horse be led to the temple of Minerva.
+When the prophet, Cassandra, said that the horse contained the enemies, **Possible!  But word order makes it easier to take *equum* as accusative subject of the indirect statement.**
  trust was not given to her and they placed the horse in front of the church.
 The Greeks went out of the gate
-and the guards were killed and Troy was conquered. **Check the forms of the verbs of these two clauses.**
+and they killed the guards and they conquered Troy. **Check the forms of the verbs of these two clauses.**
 
 1. What case is decem annōs and why?
 - decem annos is is accusative because it expresses a duration of ten years. 
 
 2. Parse possent (PNTMV) and explain its mood.
-- possent is imperfect subjunctive, active, 3rd person plural. It is subjunctive because the action was over a long period of time.Hyginus chose subjunctive here because it is explaining the circumstances, given the circumstances that Troy wasn't able to capture
+- possent is imperfect subjunctive, active, 3rd person plural. Hyginus chose subjunctive here because it is explaining the circumstances, given the circumstances that Troy wasn't able to capture
 
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
 - danai is the nominative plural subject meaning, the greeks. 
@@ -41,14 +41,14 @@ and the guards were killed and Troy was conquered. **Check the forms of the verb
  - equum in templum minervae duci is an indirect statement
      -  minervae- minervae is genitive, the temple of Minerva.
      - duci is the passive form of the infinitive of the verb to lead (to be led)
-     - equum is accusative, direct object of the verb ordered, Priamus ordered the horse
+     - equum is accusative, subject of infintive duci
       -in templum is prepositional phrase (to the temple)
 
 6. Parse duci.
 - duci is the passive form of the present infintive of the verb duco, which mans to lead. the translation of duci is "to be led"
 
 7. What case is ei and what role is it playing in the sentence?
-- ei is dative neuter, it is the indirect object that replaces Cassandra, meaning trust was not given to her. 
+- ei is dative feminine, it is the indirect object that replaces Cassandra, meaning trust was not given to her. 
 
 8. What is the function of the que in portārumque?
 - adding que means and
