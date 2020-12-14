@@ -14,10 +14,10 @@ In it were gathered Menelaus, Ulixes, Domedes, Thessandwer, Sthenelus, Acamas, T
 And on the horse they wrote "The Greeks give a gift to Minerva," and they carried the military camps over to Tenedo.
 When the trojans saw it, they judged that the enemies had gone away;
 Priamus ordered that the horse be led to the temple of Minerva.
-When the prophet, Cassandra, said that the horse contained the enemies, **Possible!  But word order makes it easier to take *equum* as accusative subject of the indirect statement.**
+When the prophet, Cassandra, said that the horse contained the enemies,
  trust was not given to her and they placed the horse in front of the church.
 The Greeks went out of the gate
-and they killed the guards and they conquered Troy. **Check the forms of the verbs of these two clauses.**
+and they killed the guards and they conquered Troy. 
 
 1. What case is decem annōs and why?
 - decem annos is is accusative because it expresses a duration of ten years. 
