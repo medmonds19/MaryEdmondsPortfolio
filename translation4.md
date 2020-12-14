@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory:  full credit**
 
 Cum *Achīvī* decem annōs Troiam capere **nōn possent**, *Epeus* equum mirae magnitūdinis ligneum **fēcit**.
 In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*.
