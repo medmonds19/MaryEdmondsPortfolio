@@ -34,6 +34,7 @@ and they killed the guards and they conquered Troy.
 4. What type of verb is arbitrati sunt?
 - passive, perfect, 3rd person, plural, indicative, it is a deponent verb, because it has an active meaning. 
 
+
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
  - priamus is nominative and the subject
  - the verb is imperavit, it is 3rd person singular, perfect active, Priamus ordered
