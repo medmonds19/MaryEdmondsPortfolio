@@ -1,4 +1,3 @@
-**Needs revisions**
 
 Prometheus ignem a deis cepit.
 Prometheus ignem hominibus dedit. 
